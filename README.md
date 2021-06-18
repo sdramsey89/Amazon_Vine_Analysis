@@ -9,11 +9,13 @@ The purpose of this prjoect was to analyze Amazon reviews written by members of 
 - There were a total of 107 vine reviews with 20 or more helpful votes
 - Of the 107 reviews, 56 were 5 Star reviews
 - 52.33% of the reviews had 5 stars
+![Paid](paid.png)
 
 ### Non-Vine Reviews
 - There were a total of 39869 non-vine reviews with 20 or more helpful votes
 - Of the 39869 reviews, 21005 were 5 Star reviews
 - 52.69% of the reviews had 5 stars
+![Unpaid](unpaid.png)
 
 ## Summary
 Based on this limited analysis there does not appear to be a bias for products received through the Vine program. In fact, the free vine products actually had a slightly lower percentage of 5 star reviews by .36%. However, without further analysis it is not possible to declare these findings statistically significant. Below, I have outlined a few other analyses that might provide more insight. 
